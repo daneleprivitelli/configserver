@@ -3,7 +3,7 @@ spring:
     name: MicroserviceRecensioni
   data:
     mongodb:    
-      uri: mongodb+srv://daniele96:<Daniele96_>@clustermicroservice.erere.mongodb.net/MicroserviceArticoliDB retryWrites=true&w=majority 
+      uri: mongodb+srv://daniele96:<Daniele96_>@clustermicroservice.erere.mongodb.net/MicroserviceArticoliDB?retryWrites=true&w=majority 
 server:
   port: 8081
 
