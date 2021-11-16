@@ -3,7 +3,7 @@ spring:
     name: MicroserviceArticoli
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: 'jdbc:mysql://212.131.189.19:30016/corso5'
+    url: jdbc:mysql://212.131.189.19:30016/corso5
     username: Daniele
     password: Corso5!
   jpa:
